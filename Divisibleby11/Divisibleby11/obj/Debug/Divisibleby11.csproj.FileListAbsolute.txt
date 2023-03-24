@@ -1,0 +1,8 @@
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\bin\Debug\Divisibleby11.exe.config
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\bin\Debug\Divisibleby11.exe
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\bin\Debug\Divisibleby11.pdb
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.exe
+C:\Users\solis\source\repos\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.pdb
